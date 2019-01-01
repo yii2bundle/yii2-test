@@ -10,4 +10,4 @@ if(!class_exists(App::class)) {
 	die('Run composer install');
 }
 
-App::init($name, 'vendor/yii2lab/yii2-test/src/base/_application');
+App::init($name, 'vendor/yii2bundle/yii2-test/src/base/_application');
