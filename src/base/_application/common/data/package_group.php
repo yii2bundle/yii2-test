@@ -16,7 +16,7 @@ return [
 		'provider' => 'github',
 		'authors' => [
 			[
-				'name' => 'Yamshikov Vitaliy, WOOPPAY LLC',
+				'name' => 'Yamshikov Vitaliy',
 				'email' => 'theyamshikov@yandex.ru',
 			],
 		],
@@ -26,7 +26,7 @@ return [
 	    'provider' => 'github',
 	    'authors' => [
 		    [
-			    'name' => 'Yamshikov Vitaliy, WOOPPAY LLC',
+			    'name' => 'Yamshikov Vitaliy',
 			    'email' => 'theyamshikov@yandex.ru',
 		    ],
 	    ],
@@ -36,18 +36,7 @@ return [
 		'provider' => 'github',
 		'authors' => [
 			[
-				'name' => 'Yamshikov Vitaliy, WOOPPAY LLC',
-				'email' => 'theyamshikov@yandex.ru',
-			],
-		],
-	],
-	[
-		'name' => 'yii2woop',
-		'provider' => 'gitlab',
-		'url' => 'http://git.wooppay.local',
-		'authors' => [
-			[
-				'name' => 'Yamshikov Vitaliy, WOOPPAY LLC',
+				'name' => 'Yamshikov Vitaliy',
 				'email' => 'theyamshikov@yandex.ru',
 			],
 		],
