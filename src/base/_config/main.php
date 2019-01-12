@@ -2,5 +2,5 @@
 
 use yii2lab\app\domain\helpers\Config;
 
-$config = env('config');
+$config = \yii2lab\app\domain\helpers\EnvService::get('config');
 return Config::loadData($config);
